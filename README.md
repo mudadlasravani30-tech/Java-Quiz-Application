@@ -1,4 +1,4 @@
-Project Documentation 
+Project Documentation
 Project Title:
 Quiz Application using Java (Topics: Python & C Programming) 
 Objective:
@@ -530,6 +530,5 @@ GUI Flow
 •	codewithcurious.com 
 •	medium.com 
 •	dev.to
-
 
 
